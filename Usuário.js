@@ -1,1 +1,1 @@
-Console.log('teste usuário.js ok');
+console.log('usuario.js 200:on');
